@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/DrakesCraft-Labs/Cringle-Bosses/main/banner.svg" alt="Cringle-Bosses" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SlimefunNewHorizons/Cringle-Bosses/main/banner.svg" alt="Cringle-Bosses" width="100%"></p>
 
 # Cringle-Bosses
 
@@ -44,6 +44,6 @@ casi nunca es un fallo de allí.
 
 ## 📄 License & Intellectual Property
 
-Copyright © 2026 [**JackStar6677-1**](https://github.com/JackStar6677-1) · [**DrakesCraft Labs**](https://github.com/DrakesCraft-Labs). All Rights Reserved.
+Copyright © 2026 [**JackStar6677-1**](https://github.com/JackStar6677-1) · [**DrakesCraft Labs**](https://github.com/SlimefunNewHorizons). All Rights Reserved.
 
 This software is **Source-Available** for public inspection and technical audit. Redistribution, commercial repackaging, or unauthorized derivative distribution without explicit written permission from the author is strictly prohibited.
